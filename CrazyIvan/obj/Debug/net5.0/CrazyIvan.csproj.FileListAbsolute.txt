@@ -1,0 +1,16 @@
+C:\WORK\REPO\CrazyIvan\CrazyIvan\bin\Debug\net5.0\CrazyIvan.exe
+C:\WORK\REPO\CrazyIvan\CrazyIvan\bin\Debug\net5.0\CrazyIvan.deps.json
+C:\WORK\REPO\CrazyIvan\CrazyIvan\bin\Debug\net5.0\CrazyIvan.runtimeconfig.json
+C:\WORK\REPO\CrazyIvan\CrazyIvan\bin\Debug\net5.0\CrazyIvan.runtimeconfig.dev.json
+C:\WORK\REPO\CrazyIvan\CrazyIvan\bin\Debug\net5.0\CrazyIvan.dll
+C:\WORK\REPO\CrazyIvan\CrazyIvan\bin\Debug\net5.0\ref\CrazyIvan.dll
+C:\WORK\REPO\CrazyIvan\CrazyIvan\bin\Debug\net5.0\CrazyIvan.pdb
+C:\WORK\REPO\CrazyIvan\CrazyIvan\obj\Debug\net5.0\CrazyIvan.csprojAssemblyReference.cache
+C:\WORK\REPO\CrazyIvan\CrazyIvan\obj\Debug\net5.0\CrazyIvan.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORK\REPO\CrazyIvan\CrazyIvan\obj\Debug\net5.0\CrazyIvan.AssemblyInfoInputs.cache
+C:\WORK\REPO\CrazyIvan\CrazyIvan\obj\Debug\net5.0\CrazyIvan.AssemblyInfo.cs
+C:\WORK\REPO\CrazyIvan\CrazyIvan\obj\Debug\net5.0\CrazyIvan.csproj.CoreCompileInputs.cache
+C:\WORK\REPO\CrazyIvan\CrazyIvan\obj\Debug\net5.0\CrazyIvan.dll
+C:\WORK\REPO\CrazyIvan\CrazyIvan\obj\Debug\net5.0\ref\CrazyIvan.dll
+C:\WORK\REPO\CrazyIvan\CrazyIvan\obj\Debug\net5.0\CrazyIvan.pdb
+C:\WORK\REPO\CrazyIvan\CrazyIvan\obj\Debug\net5.0\CrazyIvan.genruntimeconfig.cache
